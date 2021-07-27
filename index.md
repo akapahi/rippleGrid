@@ -29,8 +29,8 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
-<script src="p5.js"></script>
-<script src="sketch.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
+<script src="rippleGrid.js"></script>
 
 ### Support or Contact
 
