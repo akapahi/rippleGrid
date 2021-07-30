@@ -1,6 +1,6 @@
 let circles
 let r = 10;
-let colors = ["#D9526B", "#D9043D", "#0388A6", "#F2B705", "#F2CD88", "#2A8C70", "#F2C36B", "#F26D3D", "#D9043D", "#F2055C", "#A64B97"];
+let colors = ["#CABBFA", "#FFB5A6", "#DDD4FA", "#FAF3B9", "#BBFAE2"];
 var a = [];
 let gap = 5;
 
